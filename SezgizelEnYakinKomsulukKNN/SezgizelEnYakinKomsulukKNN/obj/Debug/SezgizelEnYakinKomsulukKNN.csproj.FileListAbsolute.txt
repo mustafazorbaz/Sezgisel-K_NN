@@ -1,0 +1,27 @@
+c:\users\mustafa\documents\visual studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe.config
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Form1.resources
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Properties.Resources.resources
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csproj.GenerateResource.Cache
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Documents\Visual Studio 2013\Projects\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe.config
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Form1.resources
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe.config
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.exe
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\bin\Debug\SezgizelEnYakinKomsulukKNN.pdb
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Form1.resources
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.Properties.Resources.resources
+C:\Users\mustafa\Desktop\ALGORİTMALAR\Mustafa ZORBAZ 305410\Sezgizel  K-NN\SezgizelEnYakinKomsulukKNN\SezgizelEnYakinKomsulukKNN\obj\Debug\SezgizelEnYakinKomsulukKNN.csproj.GenerateResource.Cache

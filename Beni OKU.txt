@@ -1,0 +1,12 @@
+1.Gen sayýsý girilen veri sayýsýndaki sutunun sayýsýdýr.
+2.Populasyon sayýsý se kromozomumun sayýsýný belirler
+3.Fonksiyon  k-nn de uzaklýk hesaplamak için belirlenmiþ bir niteliktir.
+4.Mutosyon Yerel Minimuma takýlmaktan kurtarmak için belirlenir.
+5.Mutosyon kaysayýsýda kromozomun uygunlugunu deðiþtirlirken girilecek degiþim degerdir.
+6.Çarprazlama için þeçilecek olan bireylerin þeçilmesininde belirlenir.Karýþýk ise birey seçimi her iterasyonda
+random olarak belirlenir.
+7.Ýterasyon sayýsý ne kadar büyükse o kadar iþlem iyi sonuç verir.
+8.k parametresi ise uzaklýk hesaplamada kullanýlan gruplama sayýsýdýr.
+
+Eðim için egitim verileri okunacak olan butona týklanarak eðitim verileri yüklenir.
+Test verileri için test verileri oku butonuna týklanýr.
